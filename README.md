@@ -6,7 +6,7 @@ All buttons changed color.
 Fx knob colors are changed also.
 Font colors changed-tweaked to match new color style.
 Waveform and waveform overview background color changed.
-# IMPORTANT: SOME COLOR CHANGES MADE BY EDITING XML FILES, SO FOR THE SKIN TO WORK PROPERLY YOU HAVE TO DOWNLOAD THE WHOLE SKIN.
+
 
 Some details of the skin
 ![1](https://github.com/DjAnth0n1/LateNight_Aegean-Skin/assets/134925718/f4904eb4-6f0d-4617-a692-bd705c16a0dc)
