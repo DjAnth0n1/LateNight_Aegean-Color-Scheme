@@ -1,4 +1,4 @@
-# Mixxx LateNight_Aegean Skin
+# Mixxx LateNight_Aegean Color Scheme
 ![skin_preview_PaleMoon](https://github.com/DjAnth0n1/LateNight_Aegean-Skin/assets/134925718/a17847a9-228c-415d-aa85-c06cdfdcd3ea)
 Based on the latest LateNight-Palemoon.Has exactly the same functionality with different colors.
 Mixer knob colors are now different for each parameter.
